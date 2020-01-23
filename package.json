@@ -1,13 +1,15 @@
 {
-  "name": "highcharts",
+  "name": "highcharts-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "highcharts": "^8.0.0",
+    "highcharts-react-official": "^2.2.2",
     "next": "9.2.0",
     "react": "16.12.0",
     "react-dom": "16.12.0"
