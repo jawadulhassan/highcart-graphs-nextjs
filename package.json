@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "highcharts": "^8.0.0",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^2.2.2",
     "next": "9.2.0",
     "react": "16.12.0",
